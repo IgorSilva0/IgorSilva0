@@ -12,19 +12,9 @@
     <!-- Add more tools and languages here -->
   </p>
 
-  <details>
-    <summary><h3>Stats:</h3></summary>
+  <h3>Stats:</h3>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorsilva0&show_icons=true&locale=en&layout=compact" alt="igorsilva0" />
        <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorsilva0&" alt="igorsilva0" />
     </p>
-  </details>
 </div>
-
----
-
-## About Me
-
-A full-stack software engineer with a passion for technology. From building game servers at 15 to enrolling in a coding bootcamp, my journey has been driven by a love for problem-solving and innovation.
-
-Beyond coding, I enjoy DIY projects, particularly those involving cars. Whether I'm fixing computer issues or building systems, my love for technology extends into any project where I can apply my technical skills.
