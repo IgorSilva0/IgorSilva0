@@ -15,6 +15,5 @@
   <h3>Stats:</h3>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorsilva0&show_icons=true&locale=en&layout=compact" alt="igorsilva0" />
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=igorsilva0&" alt="igorsilva0" />
     </p>
 </div>
