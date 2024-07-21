@@ -17,6 +17,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorsilva0&show_icons=true&locale=en&layout=compact" alt="igorsilva0" />
     </p>
     <p>  
-      Currently: Learning PHP.
+      Currently: Learning <img src="https://skillicons.dev/icons?i=php"/>.
     </p>
 </div>
