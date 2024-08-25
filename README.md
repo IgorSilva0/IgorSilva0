@@ -17,6 +17,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorsilva0&show_icons=true&locale=en&layout=compact" alt="igorsilva0" />
     </p>
     <p>  
-      Currently: Building a Ecommerce (Stripe/Next.js/Supabase).
+      Currently: Building an eCommerce platform with advanced features using Next.js, Stripe for payments, and Supabase for authentication and backend services.
     </p>
 </div>
