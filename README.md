@@ -8,7 +8,7 @@
   <p>
     <img src="https://skillicons.dev/icons?i=git,aws,css,express,figma,githubactions,html,js,jest,nextjs,nodejs,notion,npm,ps,postgres,postman,react,sass,supabase,ts,terraform,tailwind,vercel,vscode,vite,vitest,windows" />
     <br/>
-    plus others...
+    Stripe and more...
     <!-- Add more tools and languages here -->
   </p>
 
