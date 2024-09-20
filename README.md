@@ -16,4 +16,7 @@
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorsilva0&show_icons=true&locale=en&layout=compact" alt="igorsilva0" />
     </p>
+    <p>
+      Actively contributing to open-source projects.
+    </p>
 </div>
