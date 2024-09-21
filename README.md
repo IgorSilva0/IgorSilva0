@@ -1,7 +1,7 @@
-<div align="center">
+<div>
   <img align="left" src="https://komarev.com/ghpvc/?username=igorsilva0&label=Profile%20views&color=0e75b6&style=plastic" alt="igorsilva0" />
   <br/>
-  <h1 align="center">Hi, I'm Igor Silva 👋</h1>
+  <h1>Hi, I'm Igor Silva 👋</h1>
   <h3>a Full-Stack Software Engineer</h3>
 
   <h3>Languages and Tools:</h3>
