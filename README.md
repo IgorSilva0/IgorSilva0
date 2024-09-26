@@ -1,5 +1,5 @@
 <div>
-  <img align="left" src="https://komarev.com/ghpvc/?username=igorsilva0&label=Profile%20views&color=0e75b6&style=plastic" alt="igorsilva0" />
+  <a href="https://www.igorsilva.me/" target="_blank" rel="noreferrer">Portfolio</a>
   <br/>
   <h1>Hi, I'm Igor Silva 👋</h1>
   <h3>a Full-Stack Software Engineer</h3>
