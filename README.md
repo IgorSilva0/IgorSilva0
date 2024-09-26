@@ -1,5 +1,4 @@
 <div>
-  <a href="https://www.igorsilva.me/" target="_blank" rel="noreferrer">Portfolio</a>
   <br/>
   <h1>Hi, I'm Igor Silva 👋</h1>
   <h3>a Full-Stack Software Engineer</h3>
