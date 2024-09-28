@@ -1,8 +1,6 @@
 <div>
-  <br/>
   <h1>Hi, I'm Igor Silva 👋</h1>
   <h3>a Full-Stack Software Engineer</h3>
-
   <h3>Languages and Tools:</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=git,aws,css,express,figma,githubactions,html,js,jest,nextjs,nodejs,notion,npm,ps,postgres,postman,react,sass,supabase,ts,terraform,tailwind,vercel,vscode,vite,vitest,windows" />
