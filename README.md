@@ -6,7 +6,6 @@
     <img src="https://skillicons.dev/icons?i=git,aws,css,express,figma,githubactions,html,js,jest,nextjs,nodejs,notion,npm,ps,postgres,postman,react,sass,supabase,ts,terraform,tailwind,vercel,vscode,vite,vitest,windows" />
     <br/>
     Stripe and more...
-    <!-- Add more tools and languages here -->
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igorsilva0&show_icons=true&locale=en&layout=compact" alt="igorsilva0" />
